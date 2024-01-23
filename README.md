@@ -3,7 +3,7 @@ This Django-based web application is a simple yet powerful tool for extracting a
 
 ## Features:
 <ul>
-  <li><b>User-Friendly Interface:</b>A clean and intuitive web interface that allows users to input a URL effortlessly.</li>
+  <li><b>User-Friendly Interface:</b> A clean and intuitive web interface that allows users to input a URL effortlessly.</li>
   <li><b>Scraping Functionality:</b> Utilizes Beautiful Soup for web scraping, extracting all the hyperlinks present on the specified URL.</li>
   <li><b>Link Presentation:</b> Displays the extracted links in a clear and organized manner, making it easy for users to review and analyze.</li>
   <li><b>Responsive Design:</b> The application is designed to work seamlessly on various devices, ensuring a consistent user experience.</li>
